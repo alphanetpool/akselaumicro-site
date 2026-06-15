@@ -370,7 +370,7 @@ const App = () => {
                 </ul>
 
                 <a 
-                  href="https://payhip.com/buy?s=1&cart_links%5B%5D=7m1PH&qty%5B7m1PH%5D=1"
+                  href="https://payhip.com/b/7m1PH"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-3 px-10 py-5 bg-[#c1272d] hover:bg-[#a11f25] text-white font-bold rounded-full transition-all hover:scale-105 shadow-lg shadow-[#c1272d]/20"
