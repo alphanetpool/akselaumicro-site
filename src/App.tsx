@@ -595,7 +595,7 @@ const App = () => {
                 { 
                   name: "Instagram", 
                   icon: <Instagram className="w-8 h-8" />, 
-                  link: "https://www.instagram.com/@akselaumicro?igsh=dm5zYWVjMXQ1NmJx",
+                  link: "https://www.instagram.com/akselaumicro/",
                   stats: "Coup d'œil",
                   color: "hover:bg-purple-950/30"
                 },
